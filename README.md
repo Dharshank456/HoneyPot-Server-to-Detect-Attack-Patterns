@@ -24,4 +24,12 @@ My cowrie honeypot runs openly on the internet via a virtual machine in the clou
 #
 <img width="1169" height="512" alt="image" src="https://github.com/user-attachments/assets/029787e7-5729-427a-ac27-de69947e59fd" />
 
+# Attacker accessing the honeypot
+<img width="985" height="595" alt="remote access" src="https://github.com/user-attachments/assets/82b8fad2-a379-4291-985a-9d79cceedefb" />
+
+# logs 
+<img width="936" height="304" alt="cowrie log" src="https://github.com/user-attachments/assets/32fb2650-4619-413f-bfa5-2316705b88cf" />
+
+
+
 
